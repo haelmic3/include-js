@@ -1,0 +1,3 @@
+manifest([
+	"main.js",
+""]);
